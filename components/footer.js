@@ -10,7 +10,7 @@ const Footer = () => {
           <h2 className="flex text-2xl font-bold">
             <span className="text-green-500">
               <Image
-                src="/assets/footer/icon.svg"
+                src="/assets/footer/Icon.svg"
                 alt="Logo"
                 width={24}
                 height={24}

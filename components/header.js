@@ -17,7 +17,7 @@ const Header = () => {
           <Image
             width={300}
             height={300}
-            src="/assets/header/illustration.svg" // Ensure this path is correct in your public/assets folder
+            src="/assets/header/Illustration.svg" // Ensure this path is correct in your public/assets folder
             alt="Header Image"
             className="w-full md:w-auto h-auto max-w-xs md:max-w-lg border-dashed border-2 border-gray-500"
           />

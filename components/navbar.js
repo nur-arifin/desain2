@@ -12,7 +12,7 @@ const Navbar = () => {
         <h2 className="flex items-center text-2xl font-semibold">
           <span className="text-green-500">
             <Image
-              src="/assets/header/logo.svg"
+              src="/assets/header/Logo.svg"
               alt="Logo"
               width={24}
               height={24}
