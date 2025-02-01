@@ -15,7 +15,7 @@ const Banner1 = () => {
             Get your free proposal
           </button>
         </div>
-        <div className="absolute right-4 w-full justify-end items-center max-md:hidden flex">
+        <div className="absolute right-16 w-full justify-end items-center max-md:hidden flex">
           <Image
             width={300}
             height={300}
