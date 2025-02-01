@@ -10,7 +10,7 @@ import WorkingProcess from "@/components/working";
 
 export default function Home() {
   return (
-    <div className="bg-accent text-secondary font-sans">
+    <div className="bg-accent text-secondary font-sans overflow-x-hidden">
       {/* Navbar */}
       <Navbar />
 
